@@ -1,14 +1,14 @@
 {
-    "name": "huddledigital/zendesk-laravel",
+    "name": "PerchPeekMichael/zendesk-laravel",
     "type": "library",
-    "description": "Laravel wrapper for zendesk/zendesk_api_client_php package",
+    "description": "Laravel wrapper for zendesk/zendesk_api_client_php package with new Guzzle Psr7 call",
     "keywords": ["zendesk"],
-    "homepage": "http://workwithhuddle.com",
+    "homepage": "https://perchpeek.com",
     "license": "MIT",
     "authors": [
         {
-            "name": "Huddle Digital Ltd",
-            "email": "info@workwithhuddle.com"
+            "name": "PerchPeek Michael",
+            "email": "michael.guimaraes@perchpeek.com"
         }
     ],
     "require": {
